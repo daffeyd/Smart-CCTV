@@ -41,7 +41,7 @@ Example unfamiliar face report:
 
 ---
 
-##How it's works
+## How it's works
 ---
 1. First install library that we need
 ````
