@@ -1,6 +1,47 @@
-# Smart CCTV Using Machine Learning 
 
-How it's works ?
+# Smart CCTV
+This project help you to make sure your house is secure, it help you recognize familiar face and unfamiliar face, and send report to the owner of the system by telegram bot
+
+The prototype of this project only IP Camera so there is no documentation for it
+
+---
+
+### Table of Contents
+
+
+- [Description](#description)
+- [How it Works](#how-it's-works)
+- [Documentation](#documentation)
+- [Author Info](#author-info)
+
+---
+
+## Description
+
+This project is using IP Camera that sending picture to the main computer, the computer will analyze the picture and send the result to the owner, the owner also can send a message to the quest using the chat feature in telegram bot, the chat will be delivered to the quest that detected by the camera via speaker.
+
+Flow Chart :
+
+<img src="Assets/flowchart.png" width="500">
+
+
+- Deep Learning
+- MySQL Databases
+- Raspberry Pi
+
+Example familiar face report:
+
+<img src="Assets/famreport.png" width="500">
+
+Example unfamiliar face report:
+
+<img src="Assets/unfamreport.png" width="500">
+
+[Back To The Top](#smart-cctv)
+
+---
+
+##How it's works
 ---
 1. First install library that we need
 ````
@@ -119,3 +160,23 @@ else:
     bot.sendPhoto('insert your chat id', photo=open('guest.jpg', 'rb'))
 engine.runAndWait()       
 ````
+---
+## Documentation
+
+[Demo Video](https://drive.google.com/file/d/12Cehx8K_zsW0g1DQV1q4izjjMHyKGQyY/view?usp=sharing)
+
+This is the project got the second runner-up in [World Robot Games 2020 Online Edition](https://www.facebook.com/worldrobotgames)
+The result at [closing ceremony](https://www.facebook.com/worldrobotgames/videos/1964450920384056/) video at 25:35.
+
+<img src="Assets/cert.jpeg" width="250">
+
+[Back To The Top](#smart-cctv)
+
+---
+## Author Info
+
+- Instagram - [daffeydwilbert](https://www.instagram.com/daffeydwilbert/)
+- Email - daffeydwilbert@gmail.com
+
+[Back To The Top](#smart-cctv)
+
