@@ -167,7 +167,8 @@ engine.runAndWait()
 
 [Demo Video](https://drive.google.com/file/d/12Cehx8K_zsW0g1DQV1q4izjjMHyKGQyY/view?usp=sharing)
 
-This is the project got the second runner-up in [World Robot Games 2020 Online Edition](https://www.facebook.com/worldrobotgames)
+This is the project got the second runner-up in [World Robot Games 2020 Online Edition](https://www.facebook.com/worldrobotgames).
+
 The result at [closing ceremony](https://www.facebook.com/worldrobotgames/videos/1964450920384056/) video at 25:35.
 
 <img src="Assets/cert.jpeg" width="250">
