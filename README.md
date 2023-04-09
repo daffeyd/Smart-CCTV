@@ -18,7 +18,7 @@ The prototype of this project only IP Camera so there is no documentation for it
 
 ## Description
 
-This project is using IP Camera that sending picture to the main computer, the computer will analyze the picture and send the result to the owner, the owner also can send a message to the quest using the chat feature in telegram bot, the chat will be delivered to the quest that detected by the camera via speaker.
+This project is using IP Camera that sends picture to the main computer, the computer will analyze the picture and send the results to the owner, the owner can also send a message to the quest using the chat feature in telegram bot, the chat will be delivered to the guest that detected by the camera via speaker.
 
 Flow Chart :
 
